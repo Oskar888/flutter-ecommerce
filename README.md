@@ -9,7 +9,7 @@
 
 ## Features
 ### Homepage:
- * Searchbar
+ * Searchbar //in development
  * Go to cart button
  * Imagecarousel with latest products 
  * Popular brands picker //in development
@@ -22,6 +22,7 @@
 
 ### Cart page
  * List with products added to the cart
+ * Remove from cart function
  * Use discound code //in development
  * Cart summary with subtotal, fee delivery, discount and total price
  * Check out button

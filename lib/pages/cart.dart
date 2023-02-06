@@ -20,9 +20,6 @@ class Cart extends StatelessWidget {
       body: Container(
         margin: const EdgeInsets.symmetric(horizontal: 15),
         child: Column(children: [
-          const Divider(
-            color: Colors.black,
-          ),
           SizedBox(
             height: MediaQuery.of(context).size.height * 0.5,
             child: const CartList(),
